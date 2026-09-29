@@ -8,6 +8,9 @@ export default function App() {
       <Text className="text-xl font-bold text-blue-400">
         Open up App.js to start working on your app!!
       </Text>
+      <Text className="text-2xl font-light text-cyan-700">
+        Welcome back After long time!
+        </Text>
     
       <StatusBar style="auto" />
     </View>

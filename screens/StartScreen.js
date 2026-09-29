@@ -23,11 +23,10 @@ export default function StartScreen({ navigation }) {
       
       <View className="mt-6 flex-row gap-6 ">
         <Text className="text-black font-bold">📝 10 Questions</Text>
-        <Text className="text-black font-bold">⏱️ 5 Minutes</Text>
+        <Text className="text-black font-bold">⏱️ 10 Minutes</Text>
       </View>
 
     </View>
 
-    
   );
 }

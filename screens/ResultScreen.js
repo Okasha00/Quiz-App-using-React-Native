@@ -23,7 +23,7 @@ export default function ResultScreen({ route, navigation }) {
         {score} / {total}
       </Text>
 
-      <Text className="mt-2 text-lg text-gray-500">
+      <Text className="mt-2 text-lg text-black">
         {percentage}%
       </Text>
 

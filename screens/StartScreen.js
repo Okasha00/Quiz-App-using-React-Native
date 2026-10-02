@@ -22,7 +22,7 @@ export default function StartScreen({ navigation }) {
       </Pressable>
       
       <View className="mt-6 flex-row gap-6 ">
-        <Text className="text-black font-bold">📝 10 Questions</Text>
+        <Text className="text-black font-bold">📝 9 Questions</Text>
         <Text className="text-black font-bold">⏱️ 10 Minutes</Text>
       </View>
 
